@@ -1,1 +1,1 @@
-# Solita-Token-Smart-Contract
+This is the official smart contract of the Solita Core Token.
